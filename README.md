@@ -1,3 +1,5 @@
+# <u>Data Wrangling Project - Python (Jupyter Notebooks)</u>
+
 ## Introduction:
 This project is about Data Wrangling of tweeter account WeRateDogs. This account takes pictures of dogs posted on tweeter and they rate them with fancy ratings for fun. People react with these tweets and they like and retweet them. The provided data for this account came from many sources and they the data is not clean and needs to be prepared in order to be useful in analysis process.
 
